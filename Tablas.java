@@ -17,7 +17,7 @@ public class Tablas{
 					}
 					
 				}
-				System.out.println("\n\t 31-10-2024  Salvador Garcia Molina");
+				System.out.println("\n\t 31-10-2024  Salvador Garcia Molina.");
 
 			}
 
